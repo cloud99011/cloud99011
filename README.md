@@ -1,5 +1,5 @@
 
-## Hi there 👋
+## hi there 👋
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"></img>
@@ -8,12 +8,12 @@
 
 
 
-## About me
+## about me
 
-<p>Name: Dmitry</p>
-<p>Age: 20</p>
+<p>name: Dmitry</p>
+<p>age: 20</p>
 
-Languages:
+languages:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
@@ -22,7 +22,7 @@ DB's:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
-Stats:
+stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud99011&theme=dark&show_icons=true)
 
@@ -30,7 +30,7 @@ Stats:
 
 ---
 
-> Каждая из этих технологий имеет свои особенности и преимущества, и я стремлюсь использовать их для создания лучшего пользовательского опыта.
+> [@aspia_ru](http://t-do.ru/aspia_ru "Telegram channel")
 
 
 
