@@ -14,7 +14,7 @@ name: Dmitry
 
 age: 20
 
-contact [me](https://t.me/fdskfdkf)
+[contact](https://t.me/fdskfdkf) me
 
 languages:
 
