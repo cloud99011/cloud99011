@@ -28,7 +28,9 @@ Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud99011&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+> Каждая из этих технологий имеет свои особенности и преимущества, и я стремлюсь использовать их для создания лучшего пользовательского опыта.
 
 
 
