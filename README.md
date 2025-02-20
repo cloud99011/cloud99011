@@ -30,7 +30,7 @@ stats:
 
 ---
 
-> contact: [@fdskfdkf)](https://t.me/fdskfdkf)
+> contact: [@me](https://t.me/fdskfdkf)
 
 
 
