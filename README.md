@@ -9,4 +9,5 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## About me
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud99011&layout=compact&theme="dark")](https://github.com/anuraghazra/github-readme-stats)
