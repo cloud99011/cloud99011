@@ -12,6 +12,7 @@
 
 <p>name: Dmitry</p>
 <p>age: 20</p>
+contact [me](https://t.me/fdskfdkf)
 
 languages:
 
@@ -29,10 +30,5 @@ stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud99011&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-> contact [me](https://t.me/fdskfdkf)
-
-
-
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
