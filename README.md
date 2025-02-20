@@ -12,7 +12,6 @@
 
 <p>Name: Dmitry</p>
 <p>Age: 20</p>
-<p>Stack:</p>
 
 Languages:
 
