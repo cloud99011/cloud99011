@@ -12,7 +12,7 @@
 
 <p>name: Dmitry</p>
 <p>age: 20</p>
-<p> contact [me](https://t.me/fdskfdkf) </p> 
+[@aspia_ru](http://t-do.ru/aspia_ru "Telegram channel")
 
 languages:
 
