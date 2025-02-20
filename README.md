@@ -10,8 +10,10 @@
 
 ## about me
 
-<p>name: Dmitry</p>
-<p>age: 20</p>
+name: Dmitry
+
+age: 20
+
 [@aspia_ru](http://t-do.ru/aspia_ru "Telegram channel")
 
 languages:
