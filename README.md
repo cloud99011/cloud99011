@@ -14,7 +14,7 @@ name: Dmitry
 
 age: 20
 
-[@aspia_ru](http://t-do.ru/aspia_ru "Telegram channel")
+contact [me](https://t.me/fdskfdkf)
 
 languages:
 
