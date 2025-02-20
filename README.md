@@ -12,8 +12,9 @@
 
 <p>Name: Dmitry</p>
 <p>Age: 20</p>
-<p>Stack: ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)</p>
-
+<p>Stack:
+</p>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud99011&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud99011&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
