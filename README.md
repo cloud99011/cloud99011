@@ -30,7 +30,7 @@ stats:
 
 ---
 
-> [@aspia_ru](http://t-do.ru/aspia_ru "Telegram channel")
+> contact: [@fdskfdkf]([http://t-do.ru/aspia_ru "Telegram channel"](https://t.me/fdskfdkf))
 
 
 
